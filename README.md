@@ -1,4 +1,4 @@
-# musavitunbingo
+# e-musabingo
 
 > Kyl sää tierät
 
