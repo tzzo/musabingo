@@ -1,4 +1,4 @@
-# e-musabingo
+# musabingo
 
 > Kyl sää tierät
 
