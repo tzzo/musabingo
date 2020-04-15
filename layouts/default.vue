@@ -13,7 +13,7 @@ html
   -moz-osx-font-smoothing: grayscale
   -webkit-font-smoothing: antialiased
   box-sizing: border-box
-  background: url("/musabingo_tausta2.jpg"), rgba(black,.5)
+  background: url("/musabingo/musabingo_tausta2.jpg"), rgba(black,.5)
   background-position: center
   background-size: cover
   font-family: 'Contrail One', cursive
