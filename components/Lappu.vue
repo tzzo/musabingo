@@ -1,7 +1,7 @@
 <template lang="pug">
 	.lappu-wrap
 		.header
-			img.logo(src="~/assets/logo.png" @click="refreshArray()")
+			img.logo(src="/logo.png" @click="refreshArray()")
 		.ruudut(v-if="currentList")
 			button.ruutu(v-for="i in currentList.songs" :key="i.artist" @click="artistClick(i)" :class="{'selected': i.selected}") 
 				span {{i.artist}}
@@ -65,7 +65,7 @@ export default {
 		to 
 			opacity: 1
 	.lappu-wrap
-		background: url("~assets/musabingo_tausta2.jpg")
+		background: url("/musabingo_tausta2.jpg")
 		background-position: center
 		background-size: cover
 		box-shadow: 0 2px 23px -5px rgba(black, 0.7), 0 0px 10px -5px rgba(black,.8), 0 8px 62px -3px black
