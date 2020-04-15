@@ -171,7 +171,7 @@ export default {
 			border: 4px solid black
 			min-width: 220px
 			box-shadow: 0 1px 20px -2px rgba(black, .7)
-		@media (max-height: 600px)
+		@media (max-height: 750px)
 			position: fixed
 			top: 16px
 			display: flex
