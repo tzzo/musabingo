@@ -16,10 +16,11 @@
 				.category
 					p MUSIIKKIKATEGORIA
 					button.category-ruutu(@click="toggleCategoryList()") {{currentList.name}}
-						ul.category-list(v-if="showCategoryList") 
-							li(v-for="category in categories") 
-								button(@click="selectCategory(category)") {{category.name}}
-							button.close-list(@click.native.prevent="toggleCategoryList()") ×
+						.category-list(v-if="showCategoryList") 
+							ul
+								li(v-for="category in categories") 
+									button(@click="selectCategory(category)") {{category.name}}
+								button.close-list(@click.native.prevent="toggleCategoryList()") ×
 			
 </template>
 
@@ -162,15 +163,34 @@ export default {
 		p
 			color: white
 	.category-list
-		background: white
-		border: 4px solid black
-		min-width: 220px
-		box-shadow: 0 1px 20px -2px rgba(black, .7)
 		z-index: 1000
 		position: fixed
-		@media (max-height: 400px)
+		ul
+			position: relative
+			background: white
+			border: 4px solid black
+			min-width: 220px
+			box-shadow: 0 1px 20px -2px rgba(black, .7)
+		@media (max-height: 600px)
 			position: fixed
 			top: 16px
+			display: flex
+			align-items: center
+			justify-content: center
+			flex-direction: column
+			top: 0
+			bottom: 0
+			right: 8px
+		@media (max-height: 300px)
+			position: fixed
+			top: 0
+			right: 0
+			ul
+				overflow: scroll
+			.close-list	
+				top: 0 !important
+				position: relative !important
+
 		li
 			display: block
 			width: 100%
