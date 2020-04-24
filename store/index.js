@@ -29,6 +29,7 @@ var createCategory = function(list) {
 export const state = () => ({
 	content: data,
 	selectedList: createCategory(data['hittikamara']),
+	singaList: createCategory(data['singa']),
 });
 
 export const getters = ({
@@ -37,6 +38,9 @@ export const getters = ({
 	},
 	getSelectedList: (state) => {
 		return state.selectedList;
+	},
+	getSingaList: (state) => {
+		return state.singaList;
 	},
 });
 

@@ -382,5 +382,40 @@
 			"Veikko Lavi",
 			"Vieno Kekkonen"
 		]
+	},
+	"singa": {
+		"name": "Megamix",
+		"songs": [
+			"Bon Jovi",
+			"Elton John",
+			"Dizzee Rascal",
+			"TLC",
+			"Ricky Martin",
+			"The Darkness",
+			"Scooter",
+			"Whitney Houston",
+			"Rebecca Black",
+			"Cher",
+			"Beastie Boys",
+			"Gigi D'Agostino",
+			"Nelly",
+			"TOTO",
+			"Fatboy Slim",
+			"Darude",
+			"Kenny Loggins",
+			"John Cena",
+			"Thin Lizzy",
+			"a-ha",
+			"Vitas",
+			"Joe Exotic",
+			"Rick Astley",
+			"The Prodigy",
+			"Queen",
+			"Rednex",
+			"Michael Jackson",
+			"Nickelback",
+			"Rick James",
+			"George Michael"
+		]
 	}
 }
