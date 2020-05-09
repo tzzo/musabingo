@@ -1,7 +1,7 @@
 <template lang="pug">
 	.lappu-wrap
 		.header
-			img.logo(src="/logo_singa.png")
+			img.logo(src="/logo_mamma.png")
 		.ruudut(v-if="currentList")
 			button.ruutu(v-for="i in currentList.songs" :key="i.artist" @click="artistClick(i)" :class="{'selected': i.selected}") 
 				span {{i.artist}}
@@ -11,10 +11,10 @@
 
 		.footer
 			.left
-				p 15 artists has been drawn to your bingo card. When you identify an artist, mark it on your card. There are 4 bingo levels for one round. First 5 artists right anywhere on the card, then 1 horizontal line, 2 horizontal lines and finally a full card! Simple but fun!
+				p Pelilapussa on arvottuna 15 artistia. Kun tunnistat artistin merkitse se lappuusi. Voittaja on se joka saa ensimmäisenä haetun voittotason oikein. Voittotasoja on yhdellä kierrokselle 4 kappaletta. Ensin 5 artistia oikein missä tahansa kohtaa lappua, sitten 1-vaakarivi, 2-vaakariviä ja lopuksi täysi lappu! Yksinkertaista mutta hauskaa! 
 			.right 
 				.category
-					p CATEGORY
+					p KATEGORIA
 					button.category-ruutu {{currentList.name}}
 			
 </template>
@@ -38,7 +38,7 @@ export default {
 		}
 	},
 	created() {
-		this.$store.dispatch('setSelectedList', this.categories['singa']);
+		this.$store.dispatch('setSelectedList', this.categories['mamma']);
 	},
 }
 

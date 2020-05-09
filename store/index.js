@@ -29,7 +29,7 @@ var createCategory = function(list) {
 export const state = () => ({
 	content: data,
 	selectedList: createCategory(data['hittikamara']),
-	singaList: createCategory(data['singa']),
+	singaList: createCategory(data['mamma']),
 });
 
 export const getters = ({
