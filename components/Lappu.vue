@@ -181,7 +181,7 @@ export default {
 			top: 0
 			bottom: 0
 			right: 8px
-		@media (max-height: 300px)
+		@media (max-height: 400px)
 			position: fixed
 			top: 0
 			right: 0
