@@ -454,7 +454,7 @@
 		]
 	},
 	"summer": {
-		"name": "Kesä ei oo peruttu",
+		"name": "Kesä ei oo peruttu ⛱",
 		"songs": [
 			"Tomas Ledin",
 			"John Travolta & Olivia Newton-John",
@@ -486,6 +486,41 @@
 			"Kari Tapio",
 			"Mamba",
 			"The Doors"
+		]
+	},
+	"jenny": {
+		"name": "✨Jennyn valinta ✨",
+		"songs": [
+			"Plutonium 74",
+			"Joose Keskitalo",
+			"Earth wind and fire",
+			"Vicky rosti ",
+			"Lady gaga ",
+			"Niinistöö",
+			"Loop troop",
+			"Beyonce",
+			"The runaways ",
+			"Heart",
+			"Alannah Myles",
+			"Black Street ",
+			"Elton John",
+			"Prince",
+			"John denver",
+			"Suga babes",
+			"Elvis",
+			"Dolly parton ",
+			"Dusty springfield ",
+			"Eagles",
+			"Billy joel ",
+			"Chebaleba ",
+			"Shakira",
+			"J.lo",
+			"Papu ja pojat",
+			"Agit prop",
+			"Rauni Pekkala",
+			"Sean Paul ",
+			"Shaggy",
+			"Danny"
 		]
 	}
 }
