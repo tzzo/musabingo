@@ -1,3 +1,4 @@
+
 {
 	"klassikot": {
 		"name": "Klassikot",
@@ -521,6 +522,41 @@
 			"Sean Paul ",
 			"Shaggy",
 			"Danny"
+		]
+	},
+	"sofia": {
+		"name": "Sofia 21",
+		"songs": [
+			"Cher",
+			"TLC",
+			"Ricky Martin",
+			"Shania Twain",
+			"Britney Spears",
+			"Lou Bega",
+			"Shakira",
+			"Eminem",
+			"Katy Perry",
+			"Hannah Montana",
+			"Bon Iver",
+			"Tiktak",
+			"Tehosekoitin",
+			"Backstreet Boys",
+			"ScHoolboy Q",
+			"Enrique Iglesias",
+			"Will Smith",
+			"Christina Aguilera",
+			"JAY-Z",
+			"Santana",
+			"Dido",
+			"P!nk",
+			"Maija Vilkkumaa",
+			"Nylon Beat",
+			"Bomfunk MC's",
+			"Eifflel 65",
+			"Tony Halme",
+			"Ultra Bra",
+			"The Offspring",
+			"Tina Turner"
 		]
 	}
 }

@@ -1,7 +1,7 @@
 <template lang="pug">
 	.lappu-wrap
 		.header
-			img.logo(src="/logo_mamma.png")
+			img.logo(src="/logo.png")
 		.ruudut(v-if="currentList")
 			button.ruutu(v-for="i in currentList.songs" :key="i.artist" @click="artistClick(i)" :class="{'selected': i.selected}") 
 				span {{i.artist}}
@@ -38,7 +38,7 @@ export default {
 		}
 	},
 	created() {
-		this.$store.dispatch('setSelectedList', this.categories['mamma']);
+		this.$store.dispatch('setSelectedList', this.categories['sofia']);
 	},
 }
 
