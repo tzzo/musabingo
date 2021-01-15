@@ -556,5 +556,40 @@
 			"Ultra Bra",
 			"Tina Turner"
 		]
+	},
+	"czar": {
+		"name": "Czar 40 years",
+		"songs": [
+			"Don Huonot",
+			"Elton John",
+			"Journey",
+			"Saco (& Bram Bos)",
+			"Sunrise Avenue",
+			"Red Hot Chili Peppers",
+			"Gorillaz",
+			"Eagle Eye Cherry",
+			"Calvin Harris",
+			"Ylvis",
+			"The Offspring",
+			"Bruce Springsteen",
+			"Fun Guns",
+			"Hoobastank",
+			"Coldplay",
+			"Tones and I",
+			"Neon 2",
+			"Taisto Saaresaho",
+			"Depeche Mode",
+			"Robin",
+			"Steppenwolf",
+			"OneRepublic",
+			"Beastie Boys",
+			"Foster The People",
+			"Animals",
+			"Green day",
+			"Kenny Loggins",
+			"Ram Jam",
+			"Foo Fighters",
+			"Budgie"
+		]
 	}
 }
