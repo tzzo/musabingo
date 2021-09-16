@@ -38,7 +38,7 @@ export default {
 		}
 	},
 	created() {
-		this.$store.dispatch('setSelectedList', this.categories['czar']);
+		this.$store.dispatch('setSelectedList', this.categories['silta']);
 	},
 }
 
