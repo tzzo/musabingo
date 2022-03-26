@@ -591,5 +591,39 @@
 			"Mötley Crue",
 			"Kake Randelin"
 		]
+	},
+	"helsinki": {
+		"name": "Helsinkibingo!",
+		"songs": [
+			"Antti Autio",
+			"Happoradio",
+			"Plutonium 74",
+			"Ursus Factory",
+			"Lasse Mårtenson",
+			"Olavi Virta",
+			"Leevi and the Leavings",
+			"J. Karjalainen",
+			"Särre",
+			"Kirka",
+			"Stepa",
+			"Sir Elwoodin hiljaiset värit",
+			"Tuomari Nurmio",
+			"Pelle Miljoona",
+			"Haloo Helsinki",
+			"Frederik",
+			"Hector",
+			"Katri Helena",
+			"Kapasiteettiyksikkö",
+			"Kolmas nainen",
+			"Paleface",
+			"Scandinavian Music Group",
+			"Ultra Bra",
+			"Juha Vainio",
+			"Antti Tuisku",
+			"Loost Koos",
+			"Teuvo Loman ",
+			"Eino Grön",
+			"Reino Helismaa"
+		]
 	}
 }
