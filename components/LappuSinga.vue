@@ -38,7 +38,7 @@ export default {
 		}
 	},
 	created() {
-		this.$store.dispatch('setSelectedList', this.categories['silta']);
+		this.$store.dispatch('setSelectedList', this.categories['helsinki']);
 	},
 }
 
