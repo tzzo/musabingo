@@ -16,7 +16,9 @@ export default {
 
 if (process.client) {
 	window.onbeforeunload = function() {
-		console.log("NOOO")
+		return "Data will be lost if you leave the page, are you sure?";
+	}
+	window.unload = function() {
 		return "Data will be lost if you leave the page, are you sure?";
 	}
 }

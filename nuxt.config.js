@@ -8,7 +8,7 @@ export default {
     title: process.env.npm_package_name || '',
     meta: [
       { charset: 'utf-8' },
-      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+      { name: 'viewport', content: 'width=device-width, initial-scale=1.0, viewport-fit=cover' },
       { hid: 'description', name: 'description', content: process.env.npm_package_description || '' },
       { hid: 'og:image', property: 'og:image', content: '/logo.png' },
       { hid: 'image', property: 'image', content: '/logo.png' }
