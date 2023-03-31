@@ -1,7 +1,7 @@
 <template lang="pug">
 	.lappu-wrap
 		.header
-			img.logo(src="/logo-goker.png")
+			img.logo(src="/logo.png")
 		.ruudut(v-if="currentList")
 			button.ruutu(v-for="i in currentList.songs" :key="i.artist" @click="artistClick(i)" :class="{'selected': i.selected}") 
 				span {{i.artist}}
@@ -22,7 +22,7 @@
 <script>
 export default {
 	computed: {
-		selectedList(catgory) {
+		selectedList(category) {
 			return this.$store.commit('setSelectedList', category);
 		},
 		currentList() {
@@ -49,7 +49,7 @@ export default {
 		to 
 			opacity: 1
 	.lappu-wrap
-		background: url("/confetti.png"), url("/musabingo_tausta2.jpg")
+		background: url("/musabingo_tausta2.jpg")
 		background-position: center
 		background-size: cover
 		box-shadow: 0 2px 23px -5px rgba(black, 0.7), 0 0px 10px -5px rgba(black,.8), 0 8px 62px -3px black
@@ -118,8 +118,6 @@ export default {
 			p
 				font-size: 12px
 				line-height: 16px
-				text-shadow: 0px 0 12px black
-				backdrop-filter: blur(5px)
 			@media (min-width: 768px)
 				width: calc(100% - 200px)
 				p
