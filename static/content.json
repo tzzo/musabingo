@@ -730,5 +730,40 @@
 			"Robbie Williams",
 			"Avril Lavinge"
 		]
+	},
+	"baby": {
+		"name": "BABY BINGO",
+		"songs": [
+			"Pinkfong",
+			"Justin Bieber",
+			"PAW Patrol",
+			"Satu Vuorijoki",
+			"Rölli",
+			"Benny Törnroos",
+			"Fröbelin palikat",
+			"Hevisaurus",
+			"Mari Lauriala",
+			"Soul Captain Band",
+			"Britney Spears",
+			"Haddaway",
+			"Sir Mix-A-Lot",
+			"Vanilla Ice",
+			"Reino Helismaa",
+			"Catcat",
+			"DJ Ötzi",
+			"Tehosekoitin",
+			"Jukka Poika",
+			"Hanoi Rocks",
+			"Kipparikvartetti",
+			"Katri Helena",
+			"Boney M.",
+			"Spice Girls",
+			"Madonna",
+			"Kati",
+			"Anja Piipponen",
+			"The Trammps",
+			"Kasmir",
+			"Sister Sledge"
+		]
 	}
 }
