@@ -1,7 +1,7 @@
 <template lang="pug">
 	.lappu-wrap
 		.header
-			img.logo(src="/baby.PNG")
+			img.logo(src="/baby.png")
 		.ruudut(v-if="currentList")
 			button.ruutu(v-for="i in currentList.songs" :key="i.artist" @click="artistClick(i)" :class="{'selected': i.selected}") 
 				span {{i.artist}}
