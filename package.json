@@ -12,19 +12,19 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
-    "@nuxtjs/pwa": "^3.3.2",
-    "nuxt": "^2.14.9"
+    "@nuxtjs/pwa": "3.3.2",
+    "nuxt": "2.14.9"
   },
   "devDependencies": {
-    "@nuxtjs/tailwindcss": "^1.4.1",
-    "eslint-config-prettier": "^6.15.0",
-    "eslint-plugin-prettier": "^3.2.0",
-    "gh-pages": "^2.2.0",
-    "node-sass": "^4.14.1",
-    "prettier": "^1.19.1",
-    "pug": "^2.0.4",
-    "pug-loader": "^2.4.0",
-    "pug-plain-loader": "^1.0.0",
-    "sass-loader": "^8.0.2"
+    "@nuxtjs/tailwindcss": "1.4.1",
+    "eslint-config-prettier": "6.15.0",
+    "eslint-plugin-prettier": "3.2.0",
+    "gh-pages": "2.2.0",
+    "node-sass": "4.14.1",
+    "prettier": "1.19.1",
+    "pug": "2.0.4",
+    "pug-loader": "2.4.0",
+    "pug-plain-loader": "1.0.0",
+    "sass-loader": "8.0.2"
   }
 }

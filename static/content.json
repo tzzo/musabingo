@@ -800,5 +800,40 @@
 			"Mumford & Sons",
 			"Coldplay"
 		]
+	},
+	"destia": {
+		"name": "Destia",
+		"songs": [
+			"Queen",
+			"Coldplay",
+			"Elvis Presley",
+			"Beyoncé",
+			"Antti Tuisku",
+			"Juice",
+			"ABBA",
+			"Aki Sirkesalo",
+			"Ultra Bra",
+			"The Prodigy",
+			"Irwin Goodman",
+			"The Pointer Sisters",
+			"Kaija Koo",
+			"KISS",
+			"Michael Jackson",
+			"Vesala",
+			"Måneskin",
+			"Olavi Uusivirta",
+			"Bee Gees",
+			"Aikakone",
+			"Billy Idol",
+			"Spice Girls",
+			"Virve Rosti",
+			"Blondie",
+			"David Bowie",
+			"Sia",
+			"Madonna",
+			"Haloo Helsinki",
+			"Eppu Normaali",
+			"Wham"
+		]
 	}
 }
