@@ -835,5 +835,40 @@
 			"Eppu Normaali",
 			"Wham"
 		]
+	},
+	"veera": {
+		"name": "Rulin synttäribingo",
+		"songs": [
+			"A-ha",
+			"Franz Ferdinand",
+			"Marina",
+			"Dingo",
+			"Tove Lo",
+			"Dua lipa",
+			"Taylor swift",
+			"Imagine dragons",
+			"Oasis",
+			"Fatboy slim",
+			"Lana del rey",
+			"Tehosekoitin",
+			"The prodigy",
+			"Miley cyrus",
+			"Gorillaz",
+			"Blink 182",
+			"Abba",
+			"Pariisin kevät",
+			"Business city",
+			"Ghost",
+			"Litku klemetti",
+			"Beyonce",
+			"Tiisu",
+			"Frederik",
+			"Antti tuisku",
+			"Tommi läntinen",
+			"Ed sheeran",
+			"Movetron",
+			"Vesala",
+			"Kalevauva.fi"
+		]
 	}
 }
