@@ -56,5 +56,9 @@ if (process.client) {
 .links {
   padding-top: 15px;
 }
+
+.header {
+	height: 190px;
+}
 </style>
   
