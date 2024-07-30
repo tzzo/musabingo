@@ -870,5 +870,40 @@
 			"Vesala",
 			"Kalevauva.fi"
 		]
+	},
+	"laura": {
+		"name": "Party Like It's 1984",
+		"songs": [
+			"Cyndi Lauper",
+			"Michael Jackson",
+			"Stevie Wonder",
+			"Kirka",
+			"Tina Turner",
+			"George Michael",
+			"Laura Branigan",
+			"Queen",
+			"Wham!",
+			"Alphaville",
+			"Lionel Richie",
+			"Madonna ",
+			"Dingo",
+			"Bruce Springsteen",
+			"Juice Leskinen",
+			"Nena",
+			"Eppu Normaali",
+			"Twisted Sister",
+			"Phil Collins",
+			"Van Halen",
+			"Ray Parker Jr.",
+			"The Pointer Sisters",
+			"Pave Maijanen",
+			"Prince",
+			"Scorpions",
+			"Hanoi Rocks",
+			"Bonnie Tyler",
+			"Bon Jovi",
+			"Popeda",
+			"Yö"
+		]
 	}
 }
